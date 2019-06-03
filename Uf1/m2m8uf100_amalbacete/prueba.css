@@ -1,0 +1,154 @@
+body{
+  background-color: #ccffff;
+}
+#menu{
+  background-color: #7300e6;
+  height: 110px;
+  text-align: center;
+  padding-top: 20px;
+  color: #ffffff;
+}
+#contenido{
+  width: 80%;
+  margin: 0 auto;
+  background-color: #b3b3ff;
+}
+.bloque{
+  width: 320px;
+  background-color: #b3b3ff;
+  float: left;
+  margin: 5px;
+}
+
+#uno{
+  height: 250px;
+  width: 400px;
+  margin: 5px;
+  background-image: url(img/mel.jpg);
+  background-repeat: no-repeat;
+}
+#dos{
+  height: 70px;
+  width: 80px;
+  float: left;
+  margin-left: 5px;
+}
+#dos img{
+  width: 100%;
+}
+#tres{
+  height: 50px;
+  width: 200px;
+  margin-left: 5px;
+  float: left;
+}
+#cuatro{
+  height: 50px;
+  width: 250px;
+  clear: both;
+  margin-left: 30px;
+  margin-top: 100px;
+  text-align: center;
+  color: #990099;
+}
+#cinco{
+  margin: 0 auto;
+  width: 90%;
+  height: 400px;
+  text-align: justify;
+}
+#seis{
+  height: 70px;
+  width: 30%;
+  color: blue;
+  text-align: right;
+  margin-left: 200px;
+  padding-top: 10px;
+}
+#siete{
+  height: 30px;
+  width: 300px;
+  margin-left: 5px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+#linia{
+  width: 300px;
+}
+#uno1{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/bila.jpg);
+  background-repeat: no-repeat;
+}
+#uno2{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/mileya.jpg);
+  background-repeat: no-repeat;
+}
+#uno3{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/ros.jpg);
+  background-repeat: no-repeat;
+}
+#uno4{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/kesha.jpg);
+  background-repeat: no-repeat;
+}
+#uno5{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/ariana.jpg);
+  background-repeat: no-repeat;
+}
+#uno6{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/iron.jpg);
+  background-repeat: no-repeat;
+}
+#uno7{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/a.jpg);
+  background-repeat: no-repeat;
+}
+#uno8{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/frances.jpg);
+  background-repeat: no-repeat;
+}
+#uno9{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/sela.jpg);
+  background-repeat: no-repeat;
+}
+#uno10{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/lanaa.jpg);
+  background-repeat: no-repeat;
+}
+#uno11{
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(img/camilaa.jpg);
+  background-repeat: no-repeat;
+}
